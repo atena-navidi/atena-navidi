@@ -3,7 +3,7 @@
 
 - 🔭 I’m working as **frontend developer**
 
-- 💬 I'm currently learning nextjs**
+- 💬 I'm currently learning **nextjs**
 
 - 📫 How to reach me **atenanavidii@gmail.com**
 
