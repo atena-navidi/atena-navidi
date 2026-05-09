@@ -2,8 +2,8 @@
 <h3 align="center">Frontend Developer | React & Next.js</h3>
 
 <p align="center">
-I enjoy building modern, responsive and user‑friendly web applications.
-Always learning new technologies and improving my skills.
+I enjoy building modern, responsive, and user-friendly web applications.
+Learning new technologies and continuously improving my skills are my biggest passions.
 </p>
 
 <p align="center">
